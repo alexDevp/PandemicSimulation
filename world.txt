@@ -1,0 +1,40 @@
+3
+2
+70
+10
+200
+healthy
+0 0
+0 4
+3 0
+3 4
+4 0
+5 0
+6 2
+7 3
+8 2
+8 4
+9 0
+9 1
+9 4
+immuneNotContagious
+5 2
+7 0
+immuneContagious
+3 3
+sickSymptoms
+1 0
+1 1
+2 2
+3 2
+5 3
+6 0
+6 3
+sickNoSymptoms
+0 2
+0 3
+1 4
+2 1
+2 3
+4 2
+5 4
